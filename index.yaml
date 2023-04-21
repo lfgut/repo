@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  hluis00:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-21T06:06:10.925381104+02:00"
+    description: A Helm chart for Kubernetes
+    digest: f627bece47d54cb86ef4f372c04cb5cc45cf811fa0dbec75824bc34ab7776e24
+    name: hluis00
+    type: application
+    urls:
+    - hluis00-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-21T06:06:10.924652048+02:00"
